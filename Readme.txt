@@ -1,0 +1,1 @@
+#This react app assists in finding books through a search functionality that fetches the books data from an opened source API.
